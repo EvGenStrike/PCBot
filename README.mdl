@@ -1,0 +1,7 @@
+Этот бот позволяет выполнять некоторые действия на компьютере с помощью телефона (с помощью бота в телеграме). Изначально был создан, чтобы дистанционно выключать компьютер, но в него было добавлено множество других функций. 
+///
+This bot allows you to perform some actions on your computer using your phone (using a telegram bot). It was originally created to remotely shut down the computer, but many other functions have been added to it.
+
+ИНСТРУКЦИЯ: В файле main.py укажите в переменной token токен вашего бота. Я удалил свой токен в целях безопасности. Если вы хотите запускать бота кажрый раз при включении ПК, то в директории bat поменяйте пути у .bat и .vbs файлов так, чтобы они были верными для вашего устройства. После этого переместите MyPcBotAutoRun.bat в автозапуск.
+///
+INSTRUCTION: In the main.py file, set the token variable to your bot's token. I removed my token for security reasons. If you want to run the bot every time you turn on the PC, then in the bat directory change the paths of the .bat and .vbs files so that they are correct for your device. After that move MyPcBotAutoRun.bat to autorun.
